@@ -42,7 +42,7 @@
 .button{
   padding: 6px 10px;
   background-color: transparent;
-  border: 1px solid #0984e3;
+  border: 1px solid #079992;
   margin: 20px;
   transition: all 0.3s ease;
   cursor: pointer;
@@ -51,7 +51,7 @@
 }
 
 .button:hover{
-  background-color: #0984e3;
+  background-color: #079992;
   color: #fff;
 }
 
